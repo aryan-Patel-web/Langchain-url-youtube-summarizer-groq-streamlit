@@ -12,13 +12,14 @@ langchain_huggingface
 langchain_groq
 pypdf
 
+
 # sqlite
-
-
 
 sqlite
 mysql-connector-python  # chatbot  Q&A from sql
 SQLALchemy
+
+
 
 
 # used in text summarization
