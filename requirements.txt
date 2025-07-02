@@ -1,0 +1,29 @@
+langchain
+langchain_openai
+
+python-dotenv
+langchain_community
+langchain_chroma
+chroma
+langchain_core
+
+streamlit
+langchain_huggingface
+langchain_groq
+pypdf
+
+# sqlite
+
+
+
+sqlite
+mysql-connector-python  # chatbot  Q&A from sql
+SQLALchemy
+
+
+# used in text summarization
+validators
+
+youtube_transcript_api
+unstructured
+pytube
