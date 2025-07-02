@@ -52,6 +52,7 @@ streamlit run app.py
 
 
 🌐 Usage
+
 Enter any valid URL (YouTube or website) in the input field and click Summarize. The app extracts the text and produces a summary.
 
 Example prompt:
@@ -65,6 +66,7 @@ URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 🎯 Future Enhancements
+
 Support longer video transcripts
 
 Multilingual summarization
@@ -72,6 +74,8 @@ Multilingual summarization
 Save summaries as PDF or download
 
 Add keyword extraction
+
+
 
 👨‍💻 Author
 Aryan Patel
